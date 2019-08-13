@@ -1,0 +1,177 @@
+
+body{
+	background-color:green;
+}
+h1{
+	color: purple;
+	font-size:24px;
+}
+p{
+	color: orange;
+}
+.boldClass{
+	font-weight:bold;
+}
+.greenBody{
+	background-color: blue;
+}
+.bluep1{
+	color: purple;
+}
+.redp2{
+	color: red;
+	font-size:32px;
+	font-style: italic;
+}
+.blackp3{
+	color: black;
+	font-size:32px;
+	font-style: italic;
+}
+.redbody{
+	background-color: red;
+}
+.blueText{
+	color: blue;
+	font-size:32px;
+}
+.greenText{
+	color: green;
+	font-size:32px;
+}
+.whiteText{
+	color: white;
+	font-size:32px;
+}
+.yellowText{
+	color:yellow;
+}
+.blueBody{
+	background-color: blue;
+}
+.WhiteText{
+	color:white;
+}
+.GreenText{
+	color:green;
+	font-size:32px; 
+}
+.orangeBody{
+	background-color:orange;
+}
+.pinkBody{
+	background-color:pink
+}
+.blueBody{
+	background-color:lightblue;
+}
+.greenBody{
+	background-color:lightgreen;
+}
+
+.lightblue{
+	color:blue;
+	font-size:32px;
+	font-style:italic;
+}
+
+.pinktext{
+	color:pink;
+	font-size:32px;
+	font-style:italic;
+}
+.blacktext{
+	color:black;
+	font-size:28px;
+	font-style:italic;
+}
+.lightblue{
+	color:blue;
+	font-size:32px;
+	font-style:italic;
+}
+.greenText{
+	color:lightgreen;
+	font-size:32px;
+	font-style:italic;
+}
+.orangetext{
+	color:orange;
+	font-size:32px;
+	font-style:italic;
+}
+.yellowtext{
+	color:yellow;
+	font-size:32px;
+	font-style:italic;
+}
+.blacktext{
+	color:black;
+	font-size:32px;
+	font-style:italic;
+}
+.pinktext{
+	color:pink;
+	font-size:32px;
+	font-style:italic;
+}
+.blueText{
+	color:blue;
+	font-size:32px;
+	font-style:italic;
+}
+
+.whiteText{
+	color:white;
+	font-size:32px;
+	font-style:italic;
+}
+.greenText{
+	color:green;
+	font-size:32px;
+	font-style: italic;
+}
+
+.orangetext{
+	color:orange;
+	font-size:32px;
+	font-style: italic;
+	}
+.greentext{
+	color:lightgreen;
+	font-size:32px;
+	font-style: italic;
+}
+.bluetext{
+	color:#19C2E1;
+	font-size:32px;
+	font-style:italic;
+}
+ .pinktext{
+ 	color:pink;
+ 	font-size:32px;
+ 	font-style: italic;
+ }
+
+ .blacktext{
+ 	color:black;
+ 	font-size:32px;
+ 	font-style: italic;
+ }
+.whitetext{
+	color:white;
+	font-size:32px;
+	font-style: italic;
+}
+.deeppink{
+	font-weight:bold;
+	font-size:42px;
+}
+.purpletext{
+	font-weight:bold;
+	font-size:42px;
+}
+.orangetext{
+	font-weight:bold
+	font-size:42px;
+}
